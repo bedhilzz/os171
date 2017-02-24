@@ -1,2 +1,10 @@
-w01-171507-16-PS-About: Mengerjakan lab pada minggu ke-1
-w01-171507-16-PS-About: Mengerjakan lab pada minggu ke-1
+w01-170214-13-LR-About: IPR & Scripting, From: Lecturer
+w01-170214-13-LR-About: IPR & Scripting, From: Lecturer
+w01-170214-14-LR-About: IPR & Scripting, From: Lecturer
+w01-170214-14-LR-About: IPR & Scripting, From: Lecturer
+w01-170215-16-PS-About: Mengerjakan lab pada minggu ke-1
+w01-170215-16-PS-About: Mengerjakan lab pada minggu ke-1
+w01-170216-13-LR-About: IPR & Scripting, From: Lecturer
+w01-170216-13-LR-About: IPR & Scripting, From: Lecturer
+w01-170216-14-LR-About: IPR & Scripting, From: Lecturer
+w01-170216-14-LR-About: IPR & Scripting, From: Lecturer
