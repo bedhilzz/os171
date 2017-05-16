@@ -1,0 +1,7 @@
+Github Account : bedhilzz
+URL Ulasan : http://bedhilzz.blogspot.com/2017/05/pointers-in-c-programming-languange.html
+URL Video : https://youtu.be/7DQsQB42sUM (9 menit 21 detik)
+Video Author : Telusko Learnings
+Pemetaan : week04
+Revisi pertama : 16 Mei 2017
+Revisi kedua : 16 Mei 2017
