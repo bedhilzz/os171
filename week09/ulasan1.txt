@@ -1,0 +1,7 @@
+Github Account : bedhilzz
+URL Ulasan : http://bedhilzz.blogspot.com/2017/05/deadlock-and-starvation.html
+URL Video : https://youtu.be/2klwq4GeVtw (10 menit)
+Video Author : Stephen Brower
+Pemetaan : week07
+Revisi pertama : 16 Mei 2017
+Revisi kedua : 16 Mei 2017
