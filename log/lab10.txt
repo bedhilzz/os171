@@ -1,0 +1,12 @@
+w010-170516-15-LR-About: Deadlock & Starvation : Watching video on Youtube
+w010-170516-16-LR-About: Pointer in C-Programming : Watching video on Youtube
+w010-170516-16-PS-About: Mengerjakan Ulasan 1 : Deadlock & Starvation
+w010-170516-17-PS-About: Mengerjakan Ulasan 1 : Deadlock & Starvation
+w010-170516-17-PS-About: Mengerjakan Ulasan 2 : Pointer in C-Programming
+w010-170519-16-PS-About: Mengerjakan Ranking week02
+w010-170520-12-PS-About: Mengerjakan Ranking week00
+w010-170520-12-PS-About: Mengerjakan Ranking week04
+w010-170520-12-PS-About: Mengerjakan Ranking week06
+w010-170520-12-PS-About: Mengerjakan Ranking week08
+w010-170520-13-PS-About: Mengerjakan Ranking week10
+
